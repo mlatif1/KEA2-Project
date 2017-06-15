@@ -1,0 +1,133 @@
+PASK_Homo sapiens	MINT	PDX1	GYS1	RAB11FIP1	FXN	PIAS1	CREB1	NFATC4	KCNH2	RPS6	PHKB	EIF4ENIF1	PFKFB1	EEF1A1	PKIA	PHKB	MAPT	RPS6	NCF1	HSPB1	VTN	KRT8	RAB4A	MET	IL2RA	LMNA	LMNA	Vim	LMNB1	FGA
+CHEK2_Homo sapiens	MINT	RB1	MDM2	TP53	NBN	CDC25A	TP53	CHEK2	STRAP	TP53	XRCC1	XRCC1
+CSNK2A1_Homo sapiens	MINT	HIF1A	KANK2	XRCC1	XRCC4	CDC34	SUB1	RELA	PTPN1	MDC1
+PLK1_Homo sapiens	MINT	GTSE1	GTSE1	Mdm2	MDM2	TP53	MDM2	Mdm2	NEDD9
+SRC_Homo sapiens	MINT	LCT	CBL	ADRB2	SRC	Ctnnb1	PDCD6IP	PTPN1
+MAPK1_Homo sapiens	MINT	YBX1	YBX3	YBX1	YBX3	BCL2	IER3	PPP2R5C
+AKT1_Homo sapiens	MINT	SORBS2	SORBS2	TOPBP1	MDM2	MDM2	CDKN1B	FAM129A
+Lyn_Mus musculus	MINT	Hcls1	Cttn	Irs2	Efs	Bcar1	Dok2	Dbnl
+GSK3B_Homo sapiens	MINT	TP53	MAPT	YBX1	YBX3	YBX3	GSK3B
+PRKACA_Homo sapiens	MINT	GRIA4	YWHAZ	RELA	LIMK1	CFL1	Kcnj2
+FYN_Homo sapiens	MINT	WAS	MAP2	CBL	CBL	Ctnnb1
+CHEK1_Homo sapiens	MINT	RB1	MDM4	TP53	CSNK2B	CSNK2B
+PDK1_Homo sapiens	MINT	EPAS1	RPS6KB1	PKN2	SGK3	PDHA1
+Plk4_Mus musculus	MINT	Plk4	Plk4	CCNB3	CCNB3
+TBK1_Homo sapiens	MINT	DDX3X	IRF3	Ddx3x	Ddx3x
+HIPK2_Homo sapiens	MINT	MDM2	RUNX1	EP300
+PRKCD_Homo sapiens	MINT	NCF1	PRKCD	Glrb
+CSNK1E_Homo sapiens	MINT	PRKD2	OCLN	Dvl2
+FCGR1A_Homo sapiens	MINT	LCP2	SHC1	CBL
+MAPK14_Homo sapiens	MINT	RB1	NCOA3	LIMK1
+Epha4_Mus musculus	MINT	Epha4	Ephb2	Epha2
+EIF2AK2_Homo sapiens	MINT	EIF2S1	CDK1	CDK1
+MAPK8_Homo sapiens	MINT	BCL2	BCL2L1	JUN
+Jak2_Mus musculus	MINT	Stam	Jak2	PRKCA
+ABL1_Homo sapiens	MINT	CBL	MUC1	CTNNB1
+TRPM7_Homo sapiens	MINT	MYH9	MYH10	MYH14
+CDK1_Homo sapiens	MINT	PBK	EEF2K	RACGAP1
+TRPM6_Homo sapiens	MINT	MYH14	MYH10	MYH9
+CSNK1D_Homo sapiens	MINT	Dvl2	Dvl2
+CD2_Homo sapiens	MINT	FYN	LCK
+CSNK1A1_Homo sapiens	MINT	PRKD2	YWHAZ
+LRRK2_Homo sapiens	MINT	AKT1	AKT1
+MAP3K3_Homo sapiens	MINT	MAPK1	MAPK3
+PTPN1_Homo sapiens	MINT	CAV1	CAV1
+CAMK2D_Homo sapiens	MINT	EIF4B	STIP1
+CAMK2A_Homo sapiens	MINT	RCHY1	GRIA4
+MAPK3_Homo sapiens	MINT	GAB2	DUSP1
+Akt1_Mus musculus	MINT	Pde3a	PTPN1
+MAPKAPK2_Homo sapiens	MINT	LIMK1	AATF
+PRKD2_Homo sapiens	MINT	HDAC7	ARFIP1
+PRKCZ_Homo sapiens	MINT	RELA	AKT1
+Mapk14_Mus musculus	MINT	Atf2	Ncf1
+Abl1_Mus musculus	MINT	APP	Pstpip1
+Mapk8_Mus musculus	MINT	Jun	Atf2
+Mknk2_Mus musculus	MINT	Mapk3	Mapk11
+PAK1_Homo sapiens	MINT	RAF1	CTTN
+AURKB_Homo sapiens	MINT	RACGAP1	NPM1
+PBK_Homo sapiens	MINT	PBK	MBP
+AURKA_Homo sapiens	MINT	NPM1	NPM1
+PRKCA_Homo sapiens	MINT	NCF1	RALBP1
+PRKACB_Homo sapiens	MINT	FLNA	RCAN1
+XRCC6_Homo sapiens	MINT	XRCC5	WRN
+LCK_Homo sapiens	MINT	PTPRC	PTPN6
+RPS6KA1_Homo sapiens	MINT	EEF2K	EIF4B
+FER_Homo sapiens	MINT	Ctnnb1	NSF
+DAPK1_Homo sapiens	MINT	BECN1	DAPK1
+CDK5_Homo sapiens	MINT	MAPT	Mapt
+IKBKB_Homo sapiens	MINT	RELA	NFKBIA
+DMPK_Homo sapiens	MINT	PPP1R12A	PPP1R12A
+IKBKG_Homo sapiens	MINT	IKBKB	NFKBIA
+SYK_Homo sapiens	MINT	CBL	CBL
+Eif2ak1_Mus musculus	MINT	Eif2s1	Eif2s1
+SRMS_Homo sapiens	MINT	DOK1
+Src_Mus musculus	MINT	Ptpra
+STK11_Homo sapiens	MINT	SNRK
+TNK2_Homo sapiens	MINT	TNK2
+PRKCB_Homo sapiens	MINT	Glrb
+SGK3_Homo sapiens	MINT	ITCH
+SGK1_Homo sapiens	MINT	CREB1
+Rps6ka5_Mus musculus	MINT	Rara
+TLK1_Homo sapiens	MINT	SNAP23
+PRKCG_Homo sapiens	MINT	Glrb
+RPS6KB2_Homo sapiens	MINT	RPS6
+Prkg1_Mus musculus	MINT	Bmpr2
+PRKDC_Homo sapiens	MINT	ZIC2
+Prkcg_Mus musculus	MINT	Clock
+PTK2_Homo sapiens	MINT	PTPN23
+RPS6KA2_Homo sapiens	MINT	RPS6
+XRCC5_Homo sapiens	MINT	WRN
+PLK4_Homo sapiens	MINT	CENPJ
+ROCK2_Homo sapiens	MINT	PPP1R14B
+RAF1_Homo sapiens	MINT	KRT18
+WRN_Homo sapiens	MINT	XRCC5
+Prkaca_Mus musculus	MINT	Pde3a
+Prkca_Mus musculus	MINT	Clock
+Trpm7_Mus musculus	MINT	Myh9
+Ptk2b_Mus musculus	MINT	Asap1
+Ptk2_Mus musculus	MINT	Grb7
+Prkcb_Mus musculus	MINT	Ldb3
+MAPK14_Homo sapiens_Homo sapiens	MINT	ZNHIT1
+PLK2_Homo sapiens	MINT	CENPJ
+CLK2_Homo sapiens	MINT	PTPN1
+Egfr_Mus musculus	MINT	Eps15
+EGFR_Homo sapiens	MINT	PTPN1
+EEF2K_Homo sapiens	MINT	RPS6KB2
+Ddr1_Mus musculus	MINT	Rara
+Csnk2a1_Mus musculus	MINT	Cdh1
+Camk2d_Mus musculus	MINT	Map2
+CXCR5_Homo sapiens	MINT	GNAI2
+CSK_Homo sapiens	MINT	PTPRC
+CLK1_Homo sapiens	MINT	PTPN1
+GRIA1_Homo sapiens	MINT	PRKACA
+CIT_Homo sapiens	MINT	MYL12A
+CHUK_Homo sapiens	MINT	RELA
+CDKN1B_Homo sapiens	MINT	AKT1
+CDK11B_Homo sapiens	MINT	EIF3F
+CCNE1_Homo sapiens	MINT	FOXM1
+CCNB2_Homo sapiens	MINT	FLNA
+BRAF_Homo sapiens	MINT	MAP3K1
+ATM_Homo sapiens	MINT	TP53
+FES_Homo sapiens	MINT	NSF
+GRK2_Homo sapiens	MINT	TUBB
+PIM3_Homo sapiens	MINT	MDM2
+MAPK9_Homo sapiens	MINT	JUN
+PIM2_Homo sapiens	MINT	MDM2
+PIM1_Homo sapiens	MINT	MDM2
+PAK2_Homo sapiens	MINT	CTTN
+Mapk3_Mus musculus	MINT	Mknk1
+Mapk1_Mus musculus	MINT	Atf2
+Mapk11_Mus musculus	MINT	Atf2
+MYLK_Homo sapiens	MINT	MYL12A
+MET_Homo sapiens	MINT	PLXNB1
+MAPK11_Homo sapiens	MINT	ZNHIT1
+IGF1R_Homo sapiens	MINT	IGF1R
+MAPK10_Homo sapiens	MINT	JUN
+MAP3K1_Homo sapiens	MINT	ESR1
+MAP2K1_Homo sapiens	MINT	MAPK1
+LIMK1_Homo sapiens	MINT	CFL1
+Jak3_Mus musculus	MINT	Stam
+JAK2_Homo sapiens	MINT	STAT1
+JAK1_Homo sapiens	MINT	STAM2
+INSR_Homo sapiens	MINT	PTPN1
+YES1_Homo sapiens	MINT	Ctnnb1
