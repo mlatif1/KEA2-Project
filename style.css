@@ -3,7 +3,7 @@ body {
 }
 
 #title-row {
-	background-color: #EFEFEF;
+	background-color: lightblue;
 	padding: 15px 0px;
 }
 
@@ -19,8 +19,14 @@ body {
 	margin: 0px;
 }
 
-p {
+#link-row .col-md-4 {
+	padding: 15px 15px;
+}
 
-	font-family: Times New Roman;
+p {
+	font-family: verdana;
 	font-size: 20px;
 }
+
+
+
